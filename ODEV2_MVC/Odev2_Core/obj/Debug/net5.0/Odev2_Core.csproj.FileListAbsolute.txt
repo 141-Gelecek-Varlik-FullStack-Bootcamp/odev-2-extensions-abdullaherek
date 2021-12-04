@@ -1,0 +1,12 @@
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\bin\Debug\net5.0\Odev2_Core.deps.json
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\bin\Debug\net5.0\Odev2_Core.dll
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\bin\Debug\net5.0\ref\Odev2_Core.dll
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\bin\Debug\net5.0\Odev2_Core.pdb
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.AssemblyInfoInputs.cache
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.AssemblyInfo.cs
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.dll
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\ref\Odev2_Core.dll
+C:\Users\Abdullah\Desktop\dotnet\ODEV2_MVC\Odev2_Core\obj\Debug\net5.0\Odev2_Core.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8ec5b2d-d929-4979-8e6f-81342e558b3b": {
+      "ProjectGuid": "a8ec5b2d-d929-4979-8e6f-81342e558b3b",
+      "DisplayName": "ODEV2_MVC",
+      "ColorIndex": 0
+    },
+    "3f43fe0d-252e-4d79-80f8-34bfe812ae88": {
+      "ProjectGuid": "3f43fe0d-252e-4d79-80f8-34bfe812ae88",
+      "DisplayName": "Odev2_Core",
+      "ColorIndex": 1
+    },
+    "e8927433-ebe7-4ee4-af51-b8fed631c65f": {
+      "ProjectGuid": "e8927433-ebe7-4ee4-af51-b8fed631c65f",
+      "DisplayName": "Extensions",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
